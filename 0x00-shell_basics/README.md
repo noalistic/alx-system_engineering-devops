@@ -11,3 +11,5 @@ Task 4: Display current directory contents, including hidden files in a long for
 Task 5: Display current directory contents in long format with user and group IDs displayed numerically and hidden files
 
 Task 6: A script that creates a directory
+
+Task 7: Moving a file to a directory
