@@ -13,3 +13,5 @@ Task 5: Display current directory contents in long format with user and group ID
 Task 6: A script that creates a directory
 
 Task 7: Moving a file to a directory
+
+Task 8: Deleting a file
