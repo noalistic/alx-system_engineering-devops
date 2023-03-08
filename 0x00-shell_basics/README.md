@@ -15,3 +15,5 @@ Task 6: A script that creates a directory
 Task 7: Moving a file to a directory
 
 Task 8: Deleting a file
+
+Task 9: Deleing a directory
