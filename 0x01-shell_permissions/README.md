@@ -9,3 +9,5 @@ Task 3: a script that changes the owner of a file
 Task 4: a script that creates an empty file
 
 Task 5: a script that adds execute permission to the owner of a file 
+
+Task 6: a script that adds execute permission to the owner and the group owner, and read permission to other users 
