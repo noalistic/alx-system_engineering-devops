@@ -25,3 +25,5 @@ Task 11: A script that lists all files in the current directory and the parent o
 Task 12: A script that prints the type of the file
 
 Task 13: Creating a symbolic link
+
+Task 14: A script that copies all the HTML files
