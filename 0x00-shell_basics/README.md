@@ -23,3 +23,5 @@ Task 10: Script that changes the working directory to the previous one
 Task 11: A script that lists all files in the current directory and the parent of the working directory in a long format
 
 Task 12: A script that prints the type of the file
+
+Task 13: Creating a symbolic link
