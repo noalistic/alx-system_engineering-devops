@@ -11,3 +11,7 @@ Task 4: a script that creates an empty file
 Task 5: a script that adds execute permission to the owner of a file 
 
 Task 6: a script that adds execute permission to the owner and the group owner, and read permission to other users 
+
+Task 7: a script that adds execution permission to the owner, the group owner and the other users
+
+Task 8: Owner: no permission at all, Group: no permission at all, Other users: all the permissions
