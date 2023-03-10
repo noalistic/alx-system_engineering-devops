@@ -18,4 +18,6 @@ Task 8: Owner: no permission at all, Group: no permission at all, Other users: a
 
 Task 9: a script that sets the mode of a file 
 
-Task 10: a script that references another file  
+Task 10: a script that references another file
+
+Task 11: a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users   
