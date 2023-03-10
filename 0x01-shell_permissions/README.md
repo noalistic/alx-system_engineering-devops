@@ -17,3 +17,5 @@ Task 7: a script that adds execution permission to the owner, the group owner an
 Task 8: Owner: no permission at all, Group: no permission at all, Other users: all the permissions
 
 Task 9: a script that sets the mode of a file 
+
+Task 10: a script that references another file  
