@@ -24,3 +24,4 @@ Task 11: a script that adds execute permission to all subdirectories of the curr
 
 Task 12: a script that creates a directory with permissions 751 in the working directory   
 
+Task 13: a script that changes the group owner
