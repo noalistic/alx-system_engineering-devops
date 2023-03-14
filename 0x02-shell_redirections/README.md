@@ -19,3 +19,5 @@ Task 8: script that writes into the file ls_cwd_content the result of the comman
 Task 9: script that duplicates the last line of the file 
 
 Task 10: script that deletes all the regular files with a .js extension
+
+Task 11: Write a script that counts the number of directories and sub-directories in the current directory 
